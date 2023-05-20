@@ -1,10 +1,10 @@
 a{
-    color: orange;
+    color: rgb(255, 255, 255);
     
 }
-a: hover{
+a:hover{
     
-    color: orange;
+    color: #ffa500;
 }
 
 a:link {
@@ -17,5 +17,9 @@ text-decoration:none;
 
 h4{
     color: darkorange;
-    
+    font-weight: bold;
+}
+
+.rodape{
+    height: 35vh;
 }
